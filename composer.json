@@ -1,0 +1,15 @@
+{
+  "name": "niklas/namespaces-test",
+  "authors": [
+    {
+      "name": "niklas",
+      "email": "n.hebisch@go-james.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Niklas\\": "niklas"
+    }
+  }
+}
